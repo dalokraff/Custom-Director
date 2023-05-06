@@ -1,0 +1,11 @@
+mod = [
+	"Custom-Director"
+]
+
+package = [
+	"resource_packages/Custom-Director/Custom-Director"
+]
+
+lua = [
+	"scripts/mods/Custom-Director/*"
+]
